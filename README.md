@@ -1,4 +1,5 @@
-# Frontend Mentor - Bookmark landing page solution
+# Frontend Mentor - Bookmark landing page solution <!-- omit from toc -->
+
 
 This is a solution to the [Bookmark landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -10,19 +11,17 @@ This project demanded a deeper exploration of resources, particularly while addr
 
 In retrospect, this project has been incredibly rewarding. Not only did it broaden my knowledge base, but it also honed my problem-solving skills. It served as a reminder that every challenge encountered is an opportunity for growth. I am thankful for this project and the myriad lessons it brought with it.
 
-## Table of contents
+## Table of contents <!-- omit from toc -->
 
-- [Frontend Mentor - Bookmark landing page solution](#frontend-mentor---bookmark-landing-page-solution)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
-  - [Author](#author)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
