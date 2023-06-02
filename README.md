@@ -49,7 +49,7 @@ Robust form validation for the newsletter subscription, providing an error messa
 
 ### Links
 
-- Solution URL: [View solution URL here](https://your-solution-url.com)
+- Solution URL: [View solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-2oaR-1xDkQ)
 - Live Site URL: [View live site URL here](https://blazeshomida.github.io/Bookmark-Landing-Page---Frontend-Mentor/)
 
 ## My process
