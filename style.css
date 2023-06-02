@@ -482,7 +482,7 @@ header {
 
 .section {
 	display: grid;
-	padding-inline: 2rem;
+	padding-inline: 1rem;
 	max-width: 75rem;
 	margin-inline: auto;
 }
@@ -715,9 +715,6 @@ header {
 	text-align: left;
 }
 
-.faq__item {
-}
-
 .faq__title {
 	position: relative;
 	background: none;
@@ -729,6 +726,12 @@ header {
 	padding-inline: 0;
 	text-align: left;
 	width: 100%;
+
+	transition: all 250ms ease-in-out;
+}
+
+.faq__title:hover {
+	color: var(--clr-secondary);
 }
 
 .icon--arrow {
